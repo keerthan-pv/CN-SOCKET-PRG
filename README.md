@@ -1,8 +1,6 @@
 # Proxy Firewall - Computer Networks Project
 
-**Team Members**  
 - **Keerthan P.V** – PES2UG23CS272  
-- **M Niranjan** – PES2UG23CS308  
 
 ## 📌 Project Overview
 
